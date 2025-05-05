@@ -1,6 +1,7 @@
-## Developed by: Nirmal N
 
-## RegisterNumber: 212223240107
+## Developed by: Madhumitha.B
+
+## RegisterNumber: 212224050018
 
 Exp no :  1 - Study of basic gates
 
@@ -86,5 +87,3 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 Thus the program for logic gates with different combinations is verified successfully.
-
-
